@@ -8,5 +8,8 @@
 			"Name": "Text3D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
